@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Events</string>
+    <string name="sample_device_admin">Events</string>
+    <string name="sample_device_admin_description">EventRegistration</string>
+</resources>
